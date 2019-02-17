@@ -8,3 +8,4 @@ git config --global user.name "takashihakase"
 git commit -m "write a message describing the changes"
 git push
 git pull
+Press ESC button, then type ":wq" to quit from error message when entering "git commit" without a message.
