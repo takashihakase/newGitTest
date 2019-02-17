@@ -1,3 +1,7 @@
 git clone <url>
 git status
 git add <file name.ext>
+git config --global user.email "takashihakase@gmail.com"
+git config --global user.name "takashihakase"
+git commit -m "added index.html and GitCommands.txt"
+git push
